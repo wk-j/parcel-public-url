@@ -1,4 +1,5 @@
-## Publish URL
+## Public URL (Relative)
+
 
 ```bash
 npm install
